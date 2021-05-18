@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+
+    <string name="text_name">Name: </string>
+    <string name="text_name2">Enter your name</string>
+    <string name="text_Phone">Phone: </string>
+    <string name="text_Phone2">Enter Phone Number</string>
+    <string name="text_Pax">Pax: </string>
+    <string name="text_Pax2">Amount of people comingr</string>
+    <string name="smoking_Area">Smoking Area</string>
+    <string name="button_Reserve">Reserve: </string>
+    <string name="button_Reset">Reset</string>
+
+</resources>
